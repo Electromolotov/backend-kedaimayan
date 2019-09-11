@@ -1,0 +1,69 @@
+Looking for git in: git
+Using git 2.23.0.rc1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /root/Documents/belajar-backend-master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :readme.md
+> git show :Procfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :readme.md
+> git show :package.json
+> git show :index.js
+> git check-ignore -v -z --stdin
+> git show :routes/categoriesRoutes.js
+> git show :routes/menusRoutes.js
+> git show :routes/ordersRoutes.js
+> git show :routes/productRoutes.js
+> git show :routes/transactionsRoutes.js
+> git show :routes/userRoutes.js
+> git check-ignore -v -z --stdin
+> git show :models/categories.js
+> git show :models/index.js
+> git show :models/menus.js
+> git show :models/orders.js
+> git show :models/transactions.js
+> git check-ignore -v -z --stdin
+> git show :migrations/20190830211925-create-categories.js
+> git show :migrations/20190830212435-create-menus.js
+> git show :migrations/20190830211925-create-categories.js
+> git show :migrations/20190830212435-create-menus.js
+> git show :migrations/20190831015327-create-transactions.js
+> git show :migrations/20190831015537-create-orders.js
+> git check-ignore -v -z --stdin
+> git show :controllers/categoriesController.js
+> git show :controllers/ordersController.js
+> git show :controllers/menusController.js
+> git show :controllers/categoriesController.js
+> git check-ignore -v -z --stdin
+> git show :config/config.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :models/index.js
+> git show :index.js
+> git show :config/config.json
+> git show :index.js
+> git show :routes/transactionsRoutes.js
+> git show :routes/ordersRoutes.js
+> git show :routes/menusRoutes.js
+> git show :routes/categoriesRoutes.js
+> git show :package.json

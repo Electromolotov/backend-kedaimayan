@@ -14,6 +14,10 @@ const categoriesRoutes= require('./routes/categoriesRoutes')
 const menusRoutes= require('./routes/menusRoutes')
 const transactionsRoute = require('./routes/transactionsRoutes')
 
+app.get('/', (req, res) => {
+    res.send('Server telah jalan cuuuk !!!')
+})
+
 
 app.use(menusRoutes)
 

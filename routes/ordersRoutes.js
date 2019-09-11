@@ -15,6 +15,7 @@ app.group("/api/v1/", (router) => {
     router.post('/order',orderController.store)
     router.patch('/order/:id', orderController.update)
     router.delete('/order/:id', orderController.destroy)
+    router.get('/orderByTransaction/:id', orderController.orderByTransaction)
 })
 
 module.exports = app

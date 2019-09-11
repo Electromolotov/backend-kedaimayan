@@ -27,6 +27,7 @@ exports.store = (req, res) => {
             Order.create(req.body).then(Order => {
                 res.send({
                     messages: "success",
+                    Order
                 
             })
         })
@@ -53,3 +54,10 @@ exports.destroy = (req, res) => {
         })
     })
 }
+exports.orderByTransaction=(req, res)=>{
+    Order.findAll(
+        {where: {transactions_Id: req.params.id}
+    }).then(data => 
+        res.send(data)
+        )
+} 

@@ -1,0 +1,24 @@
+[2019-09-10 20:35:33.100] [exthost] [info] extension host started
+[2019-09-10 20:35:33.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-10 20:35:33.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-10 20:35:33.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-10 20:35:33.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-09-10 20:35:33.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-10 20:35:33.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-10 20:35:33.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-10 20:35:33.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-09-10 20:35:33.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-10 20:35:33.427] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-10 20:35:33.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-10 20:35:33.430] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-10 20:35:33.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-10 20:35:33.497] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-10 20:35:33.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-10 20:35:33.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-10 20:35:33.631] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2019-09-10 20:35:33.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/alefragnani.project-manager-10.7.0/dist/extension
+[2019-09-10 20:35:33.644] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-09-10 20:35:33.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-09-10 20:35:33.742] [exthost] [info] eager extensions activated
+[2019-09-10 20:35:34.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-10 20:35:34.154] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension

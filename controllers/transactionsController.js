@@ -31,6 +31,7 @@ exports.update = (req, res) => {
     Transactions.update(req.body,{where : {id: req.params.id}}).then(Transactions => {
         res.send({
             Pesan: 'Sukses',
+            Transactions
         })
     })
 }

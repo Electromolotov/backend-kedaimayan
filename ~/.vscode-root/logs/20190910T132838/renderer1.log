@@ -1,0 +1,2 @@
+[2019-09-10 13:29:23.005] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-09-10 13:29:23.052] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED

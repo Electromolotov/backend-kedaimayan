@@ -32,3 +32,50 @@ Open repository: /root/Documents/belajar-backend-master
 > git show :routes/categoriesRoutes.js
 > git show :routes/menusRoutes.js
 > git show :routes/categoriesRoutes.js
+> git show :routes/categoriesRoutes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :routes/menusRoutes.js
+> git show :routes/categoriesRoutes.js
+> git show :routes/menusRoutes.js
+> git show :routes/categoriesRoutes.js
+> git show :migrations/20190830211925-create-categories.js
+> git show :Procfile
+> git show :.gitignore
+> git show :Procfile
+> git show :config/config.json
+> git show :package.json
+> git show :migrations/20190830212435-create-menus.js
+> git show :routes/menusRoutes.js
+> git show :controllers/categoriesController.js
+> git show :migrations/20190830212435-create-menus.js
+> git show :routes/ordersRoutes.js
+> git show :routes/categoriesRoutes.js
+> git show :routes/menusRoutes.js
+> git show :migrations/20190830212435-create-menus.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

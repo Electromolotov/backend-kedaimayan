@@ -32,7 +32,7 @@ This project is still on very early development stage. If you want to use for pr
 
 ## Support Me :)
 
-   Star this repository star
+   Star this repository
    
    Hire Me: https://bit.ly/2lLMeFZ
 

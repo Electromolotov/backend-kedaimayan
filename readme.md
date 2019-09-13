@@ -8,26 +8,33 @@ This project is still on very early development stage. If you want to use for pr
 
 ## Kedaimayan REST API comes with a set of 4 common resources:
 
-    /categories
-    /menus
-    /orders
-    /transactions
+   /categories
+   
+   /menus
+   
+   /orders
+   
+   /transactions
 
 ## Prerequisites
 
-    Make sure You had been install NodeJs in your system https://nodejs.org/
-    Don’t forget Express Js as the backend https://expressjs.com
+   Make sure You had been install NodeJs in your system https://nodejs.org/
+   
+   Don’t forget Express Js as the backend https://expressjs.com
 
 ## Installation & Configuration
 
-    $ git clone https://github.com/muselimin/backend-kedaimayan.git
-    $ cd backend-kedaimayan
-    $ npm install
+   $ git clone https://github.com/muselimin/backend-kedaimayan.git
+   
+   $ cd backend-kedaimayan
+   
+   $ npm install
 
 ## Support Me :)
 
-    Star this repository star
-    Hire Me: https://bit.ly/2lLMeFZ
+   Star this repository star
+   
+   Hire Me: https://bit.ly/2lLMeFZ
 
 License
 

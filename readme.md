@@ -1,6 +1,7 @@
 # API for Kedaimayan
 
 This is a REST API made with Node.js and Express.js, Sequelize as ORM, MySQL as development DB.
+
 Important
 
 This project is still on very early development stage. If you want to use for production, use it with your own risk.
@@ -26,7 +27,7 @@ This project is still on very early development stage. If you want to use for pr
 ## Support Me :)
 
     Star this repository star
-    Hire Me: 
+    Hire Me: https://bit.ly/2lLMeFZ
 
 License
 

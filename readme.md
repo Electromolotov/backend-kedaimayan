@@ -14,12 +14,12 @@ This project is still on very early development stage. If you want to use for pr
 
 ## Prerequisites
 
-    Make sure You had been install NodeJs in your system [nodejs](https://nodejs.org/)
-    Don’t forget Express Js as the backend [expressjs](https://expressjs.com)
+    Make sure You had been install NodeJs in your system https://nodejs.org/
+    Don’t forget Express Js as the backend https://expressjs.com
 
 ## Installation & Configuration
 
-    $ git clone [](https://github.com/muselimin/backend-kedaimayan.git)
+    $ git clone https://github.com/muselimin/backend-kedaimayan.git
     $ cd backend-kedaimayan
     $ npm install
 
